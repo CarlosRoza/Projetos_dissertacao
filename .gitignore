@@ -1,0 +1,6 @@
+# Dados baixados pelos notebooks de coleta — regeneráveis a qualquer momento, não versionados
+dados_ghia/
+
+# Cache/checkpoints do Jupyter
+.ipynb_checkpoints/
+__pycache__/
